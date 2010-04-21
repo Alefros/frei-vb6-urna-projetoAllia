@@ -1,0 +1,4 @@
+Como registrar uma OCX.
+No comando Executar insira a seguinte informação
+
+Regsvr32 "C:\Documents and Settings\Altima\Meus documentos\Meus arquivos recebidos\shdocvw.dll"
