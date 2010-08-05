@@ -1,0 +1,62 @@
+Line 144: Class TabDlg.SSTab of control SStab was not a loaded control class.
+Line 194: Class MSMask.MaskEdBox of control mskcep was not a loaded control class.
+Line 24: Property Picture in cmdprimeiro had an invalid file reference.
+Line 35: Property Picture in cmdultimo had an invalid file reference.
+Line 46: Property Picture in cmdproximo had an invalid file reference.
+Line 57: Property Picture in cmdanterior had an invalid file reference.
+Line 77: Property Picture in btnnovo had an invalid file reference.
+Line 97: Property Picture in btnincluir had an invalid file reference.
+Line 118: Property Picture in btnexcluir had an invalid file reference.
+Line 138: Property Picture in btnalterar had an invalid file reference.
+Line 150: The property name _ExtentX in SStab is invalid.
+Line 151: The property name _ExtentY in SStab is invalid.
+Line 152: The property name _Version in SStab is invalid.
+Line 153: The property name Tabs in SStab is invalid.
+Line 154: The property name Tab in SStab is invalid.
+Line 155: The property name TabsPerRow in SStab is invalid.
+Line 156: The property name TabHeight in SStab is invalid.
+Line 158: The property name TabCaption(0) in SStab is invalid.
+Line 159: The property name TabPicture(0) in SStab is invalid.
+Line 160: The property name Tab(0).ControlEnabled in SStab is invalid.
+Line 161: The property name Tab(0).Control(0) in SStab is invalid.
+Line 162: The property name Tab(0).Control(1) in SStab is invalid.
+Line 163: The property name Tab(0).ControlCount in SStab is invalid.
+Line 164: The property name TabCaption(1) in SStab is invalid.
+Line 165: The property name TabPicture(1) in SStab is invalid.
+Line 166: The property name Tab(1).ControlEnabled in SStab is invalid.
+Line 167: The property name Tab(1).Control(0) in SStab is invalid.
+Line 168: The property name Tab(1).Control(0).Enabled in SStab is invalid.
+Line 169: The property name Tab(1).Control(1) in SStab is invalid.
+Line 170: The property name Tab(1).Control(1).Enabled in SStab is invalid.
+Line 171: The property name Tab(1).Control(2) in SStab is invalid.
+Line 172: The property name Tab(1).Control(2).Enabled in SStab is invalid.
+Line 173: The property name Tab(1).Control(3) in SStab is invalid.
+Line 174: The property name Tab(1).Control(3).Enabled in SStab is invalid.
+Line 175: The property name Tab(1).ControlCount in SStab is invalid.
+Line 176: The property name TabCaption(2) in SStab is invalid.
+Line 177: The property name TabPicture(2) in SStab is invalid.
+Line 178: The property name Tab(2).ControlEnabled in SStab is invalid.
+Line 179: The property name Tab(2).Control(0) in SStab is invalid.
+Line 180: The property name Tab(2).Control(1) in SStab is invalid.
+Line 181: The property name Tab(2).Control(2) in SStab is invalid.
+Line 182: The property name Tab(2).Control(3) in SStab is invalid.
+Line 183: The property name Tab(2).ControlCount in SStab is invalid.
+Line 184: The property name TabCaption(3) in SStab is invalid.
+Line 185: The property name TabPicture(3) in SStab is invalid.
+Line 186: The property name Tab(3).ControlEnabled in SStab is invalid.
+Line 187: The property name Tab(3).Control(0) in SStab is invalid.
+Line 188: The property name Tab(3).Control(1) in SStab is invalid.
+Line 189: The property name Tab(3).Control(2) in SStab is invalid.
+Line 190: The property name Tab(3).Control(3) in SStab is invalid.
+Line 191: The property name Tab(3).Control(4) in SStab is invalid.
+Line 192: The property name Tab(3).Control(5) in SStab is invalid.
+Line 193: The property name Tab(3).ControlCount in SStab is invalid.
+Line 200: The property name _ExtentX in mskcep is invalid.
+Line 201: The property name _ExtentY in mskcep is invalid.
+Line 202: The property name _Version in mskcep is invalid.
+Line 203: The property name PromptInclude in mskcep is invalid.
+Line 204: The property name MaxLength in mskcep is invalid.
+Line 205: The property name Mask in mskcep is invalid.
+Line 206: The property name PromptChar in mskcep is invalid.
+Line 226: Property ItemData in Combo1 had an invalid file reference.
+Line 228: Property List in Combo1 had an invalid file reference.
